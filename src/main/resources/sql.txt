@@ -1,0 +1,41 @@
+INSERT INTO tipo
+(
+titulo_original,
+tipo,
+classificacao,
+lancamento,
+duracao,
+genero,
+idioma_audio,
+legendas,
+informacao,
+produtora,
+formato,
+franquia,
+qualidade,
+tamanho,
+critica_expecializada,
+resenha,
+dirigido,
+endereco_trailer
+)
+values
+(
+'Cruella',
+'Filme',
+'12 Anos',
+'2022',
+'2h 14 Min',
+'Aventura / Comédia / Policial',
+'Dublado / Inglês / Português 5.1',
+'Português',
+'Completo',
+'Gunn Films',
+'MKV',
+'Cruella',
+'1080p / Full HD / WEB-DL / 10',
+'2.87',
+'7.4',
+'Inteligente, criativa e determinada, Estella quer fazer um nome para si através de seus designs e acaba chamando a atenção da Baronesa Von Hellman. Entretanto, o relacionamento delas desencadeia um curso de eventos e revelações que fazem com que Estella abrace seu lado rebelde e se torne a Cruella, uma pessoa má, elegante e voltada para a vingança.',
+'Craig Gillespie',
+'https://youtu.be/rtuGB3nD5y0');
